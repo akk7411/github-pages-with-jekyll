@@ -11,7 +11,5 @@ twitter_username: bky_11
 github_username:  akk7411
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-
-
-theme: just now
+theme: jekyll-theme-merlot  minime
 
